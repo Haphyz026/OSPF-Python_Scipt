@@ -1,2 +1,2 @@
 # OSPF-Python_Scipt
-Basic ospf python script can be use to configure ospf routing protocol on cisco iosvl2
+This ospf pyntc script is used to configure ospf routing protocol on cisco iosvl2
